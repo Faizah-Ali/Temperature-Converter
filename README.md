@@ -18,6 +18,8 @@
         <li>Click the "Convert" button.</li>
         <li>Converted values in Fahrenheit and Kelvin will be displayed below.</li>
     </ol>
+    <h2>Setup Instructions</h2>
+    <p>Follow the steps below to set up and run this project on your local machine:</p>
     
      
   </body>
