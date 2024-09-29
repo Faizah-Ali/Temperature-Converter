@@ -12,7 +12,13 @@
         <li>Interactive and real-time conversion as you input data.</li>
         <li>Responsive design for better user experience on mobile and desktop.</li>
     </ul>
-     
 
+    <h2>How to Use</h2>
+    <ol>
+        <li>Enter the temperature in Celsius into the input field.</li>
+        <li>Click the "Convert" button.</li>
+        <li>Converted values in Fahrenheit and Kelvin will be displayed below.</li>
+    </ol>
+     
   </body>
 </html>
