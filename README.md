@@ -30,7 +30,33 @@
         <li>Navigate to the project directory in your terminal.</li>
         <li>Run <code>npm install</code> to install the necessary dependencies.</li>
     </ol>
-    
+    <h3>Running the Project</h3>
+    <ol>
+        <li>In the terminal, run <code>npm start</code>.</li>
+        <li>The app will automatically open in your default browser.</li>
+        <li>You can now use the Temperature Converter directly in your browser.</li>
+    </ol>
+    <h2>Code Overview</h2>
+    <p>The main application logic is contained in <code>App.js</code>. This file includes:</p>
+    <ul>
+        <li>State management for storing the Celsius input and converted Fahrenheit and Kelvin values.</li>
+        <li>A function to handle the temperature conversion using simple arithmetic formulas.</li>
+        <li>JSX structure to display the input field, button, and converted results.</li>
+    </ul>
+    <h2>Conversion Formulas</h2>
+    <p>The conversion formulas used in this application are:</p>
+    <ul>
+        <li><strong>Fahrenheit:</strong> <code>(Celsius * 9/5) + 32</code></li>
+        <li><strong>Kelvin:</strong> <code>Celsius + 273.15</code></li>
+    </ul>
+    <h2>Technologies Used</h2>
+    <ul>
+        <li>React.js</li>
+        <li>JavaScript (ES6+)</li>
+        <li>HTML</li>
+    </ul>
+    <h2>License</h2>
+    <p>This project is licensed under the MIT License. You are free to use, modify, and distribute the project as per the terms of the license.</p>    
      
   </body>
 </html>
