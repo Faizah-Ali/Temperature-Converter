@@ -12,7 +12,6 @@
         <li>Interactive and real-time conversion as you input data.</li>
         <li>Responsive design for better user experience on mobile and desktop.</li>
     </ul>
-
     <h2>How to Use</h2>
     
      
