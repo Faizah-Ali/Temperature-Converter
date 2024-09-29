@@ -20,6 +20,16 @@
     </ol>
     <h2>Setup Instructions</h2>
     <p>Follow the steps below to set up and run this project on your local machine:</p>
+    <h3>Prerequisites</h3>
+    <ul>
+        <li>Node.js and npm installed on your computer.</li>
+    </ul>
+    <h3>Installation</h3>
+    <ol>
+        <li>Clone the repository or download the project files to your local machine.</li>
+        <li>Navigate to the project directory in your terminal.</li>
+        <li>Run <code>npm install</code> to install the necessary dependencies.</li>
+    </ol>
     
      
   </body>
